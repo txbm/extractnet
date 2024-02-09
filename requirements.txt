@@ -7,7 +7,7 @@ scikit-learn>=0.22.0
 tld==0.12.6
 scipy>=0.17.0
 sklearn-crfsuite==0.3.6
-dateparser==1.1.0
+dateparser==1.2.0
 joblib==0.17.0
 lxml
 htmldate==0.7.2
